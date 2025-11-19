@@ -1,0 +1,6 @@
+# WiFi settings
+CIRCUITPY_WIFI_SSID = "BostonCollege"
+CIRCUITPY_WIFI_PASSWORD = ""
+
+BROKER="makerspaceserv.bc.edu"
+PORT = 1884
